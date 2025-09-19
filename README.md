@@ -1,7 +1,40 @@
-# 🤖  안녕하세요. 저는 서재원 입니다. 🐯
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hippo's&nbsp;GitHub&fontSize=90" />
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<sjww0604>&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+🌱 아는것이 많고 깊게 아는 개발자가 되고 싶은 개발 꿈나무입니다. 
+<br>노력을 결실로 만들자! 💪
+</p>
 
-### Get in Touch
+## 📚 Studying... 
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+</div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://stark77.tistory.com)
+## 🛠️ Tools 
+<div align="center">
+ 	<img src="https://img.shields.io/badge/intelliJ-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=black" />
+</div>
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjww0604&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjww0604&layout=compact&theme=tokyonight&v=1" />
+</p>
+
+## 📬 Get in Touch
+<p align="center">
+  <a href="https://stark77.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:sjww0604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
