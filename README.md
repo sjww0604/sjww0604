@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjww0604&layout=compact&theme=tokyonight&v=1" />
 </p>
 
+## 📈 Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjww0604&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📬 Get in Touch
 <p align="center">
   <a href="https://sjww0604.tistory.com" target="_blank">
@@ -36,3 +39,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
