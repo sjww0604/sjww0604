@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:5d5fef&height=300&section=header&text=Hippo's&nbsp;GitHub&fontSize=90&fontAlign=50&fontAlignY=40" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:5d5fef&height=300&section=header&text=Hippo's&nbsp;GitHub&fontSize=90&fontAlign=50&fontAlignY=40&fontColor=bb9af7" />
 </p>
+
 
 <p align="center">
   🌱 아는 것이 많고 깊게 아는 개발자가 되고 싶은 개발 꿈나무입니다.<br/>
