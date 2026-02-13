@@ -24,8 +24,8 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjww0604&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjww0604&layout=compact&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sjww0604&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sjww0604&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📈 Activity
